@@ -26,7 +26,6 @@ With the rise in manipulated media, detecting fake video content has become a ma
 - **Language:** Python
 - **Libraries:** OpenCV, Scikit-learn, NumPy, Matplotlib, Seaborn
 - **Platform:** Google Colab / Jupyter Notebook
-- **Frontend:** HTML, CSS
 
 ---
 
