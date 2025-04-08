@@ -79,7 +79,7 @@ With the rise in manipulated media, detecting fake video content has become a ma
 ## 👨‍💻 Team Members
 
 - Ashwani Kumar Chaurasiya (2231141)  
-- Anand Shekhar Mishra (22311334)  
+- Anand Shekhar Mishra (2231134)  
 - Manvendra Tiwari (2231158)  
 - Anubhav Singh (2231138)
 
