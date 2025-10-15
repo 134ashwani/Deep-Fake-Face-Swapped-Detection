@@ -82,7 +82,7 @@ With the rise in manipulated media, detecting fake video content has become a ma
 - Manvendra Tiwari (2231158)  
 - Anubhav Singh (2231138)
 
-**Guide:** Rahul Dev Sir, Assistant Professor, Department of AI & DS, CGC Jhanjeri
+**Guide:** Rahul Dev Singh, Assistant Professor, Department of AI & DS, CGC University Mohali
 
 ---
 
