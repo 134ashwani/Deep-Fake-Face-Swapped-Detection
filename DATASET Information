@@ -1,0 +1,28 @@
+
+## 📊 Dataset Information
+
+This project uses the **SDFVD (Small-scale Deepfake Forgery Video Dataset)** for training and evaluation.
+
+- **Dataset Name:** Small-scale Deepfake Forgery Video Dataset (SDFVD)  
+- **Source:** Mendeley Data  
+- **Link:** https://data.mendeley.com/datasets/bcmkfgct2s/1  
+
+### 📂 Dataset Description
+The dataset contains a collection of real and deepfake videos created using face manipulation techniques. It is designed for research and educational purposes in deepfake detection.
+
+### 🧾 Key Features
+- Contains both **real** and **fake** videos  
+- Includes **facial manipulations** such as face swapping and expression changes  
+- Suitable for **frame-level analysis and temporal modeling**  
+- Small-scale dataset, ideal for academic projects and experimentation  
+
+### ⚙️ Usage in This Project
+- Videos are converted into frames using OpenCV  
+- Faces are extracted from each frame  
+- Extracted face data is used to generate features  
+- Features are labeled as **Real (0)** or **Fake (1)** for model training  
+
+### ⚠️ Note
+Due to dataset size and computational constraints, only a subset of videos may be used during training in Google Colab.
+
+---
